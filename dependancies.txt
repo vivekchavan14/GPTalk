@@ -1,0 +1,6 @@
+ npm i @heroicons/react react-router-dom react-dropzone r
+eact-chat-engine-advanced  react-redux @reduxjs/toolkit
+
+npm create vite@latest
+
+ npm i -D eslint eslint-config-react-app
